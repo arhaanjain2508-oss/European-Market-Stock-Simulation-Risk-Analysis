@@ -132,7 +132,7 @@ This project is an adapted and extended implementation using European markets, a
 
 ---
 
-## Resources I Used
+## Resources ssed
 
 * GBM Article: QuantStart
   [https://www.quantstart.com/articles/geometric-brownian-motion-simulation-with-python/](https://www.quantstart.com/articles/geometric-brownian-motion-simulation-with-python/)
